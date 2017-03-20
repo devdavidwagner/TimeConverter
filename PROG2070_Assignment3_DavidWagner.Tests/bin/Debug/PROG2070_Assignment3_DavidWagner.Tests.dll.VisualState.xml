@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1015]G:\QUALITY_ASSURANCE_ASSIGNMENTS\a3\PROG2070_Assignment3_DavidWagner\PROG2070_Assignment3_DavidWagner.Tests\bin\Debug\PROG2070_Assignment3_DavidWagner.Tests.dll</TopNode>
+  <SelectedNode>[0-1001]PROG2070_Assignment3_DavidWagner.Tests.ProjectA.input2ShouldReturn4</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1015]G:\QUALITY_ASSURANCE_ASSIGNMENTS\a3\PROG2070_Assignment3_DavidWagner\PROG2070_Assignment3_DavidWagner.Tests\bin\Debug\PROG2070_Assignment3_DavidWagner.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1016]PROG2070_Assignment3_DavidWagner" Expanded="true" />
+    <Node UniqueName="[0-1017]PROG2070_Assignment3_DavidWagner.Tests" Expanded="true" />
+    <Node UniqueName="[0-1000]PROG2070_Assignment3_DavidWagner.Tests.ProjectA" Expanded="true" />
+    <Node UniqueName="[0-1005]PROG2070_Assignment3_DavidWagner.Tests.ProjectB" Expanded="true" />
+    <Node UniqueName="[0-1010]PROG2070_Assignment3_DavidWagner.Tests.ProjectC" Expanded="true" />
+  </Nodes>
+</VisualState>
